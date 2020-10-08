@@ -1,0 +1,14 @@
+.form-wrapper{
+
+    display: flex;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-outside{
+
+    width: 480px!important;
+    padding: 1rem 0 2rem 0 !important;
+
+}

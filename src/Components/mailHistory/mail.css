@@ -1,0 +1,17 @@
+.note{
+
+    display: flex;
+    float: left;
+    margin-left: 20px;
+    margin-top: 40px;
+    margin-bottom: 35px;
+}
+
+.no-mess{
+
+    display: flex;
+    margin-top: 180px!important;
+    align-items: center;
+    justify-content: center;
+
+}

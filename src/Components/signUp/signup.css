@@ -1,0 +1,20 @@
+.signUp{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.error{
+
+    color: indianred;
+
+}
+
+.success{
+
+    color:green
+
+}
